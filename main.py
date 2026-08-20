@@ -30,8 +30,8 @@ class SmartGameAssistApp(App):
         self.current_period = ""
         self.cached_predictions = {}
         
-        # 🔗 APNA REFERRAL LINK YAHAN REPLACE KAREIN
-        self.referral_url = "https://example.com/register?r_code=SGOD_VIP"
+        # 🔗 AAPKA REFERRAL LINK
+        self.referral_url = "https://yaarwin.app/#/register?invitationCode=277622666726"
         self.game_url = self.referral_url
 
         self.root = BoxLayout(orientation='vertical', spacing=0)
